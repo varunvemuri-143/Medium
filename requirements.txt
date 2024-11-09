@@ -1,0 +1,14 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+sqlalchemy==1.4.25
+asyncpg==0.29.0
+alembic==1.7.3
+psycopg2-binary
+passlib
+python-jose==3.3.0
+pydantic
+pydantic[email]
+python-multipart
+greenlet
+mysqlclient==2.1.0
+social-auth-core
